@@ -106,9 +106,4 @@ It demonstrates how to:
 - Add WebSocket / SSE streaming endpoints.
 - Provide SDKs for more languages.
 
----
 
-## Disclaimer
-
-This repository is an experimental reference implementation of the SenseGrid Protocol.  
-It is **not** production-ready and is meant for research, prototyping and discussion.
